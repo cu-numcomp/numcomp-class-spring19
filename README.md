@@ -9,6 +9,7 @@ Meeting Time: Tue/Thu 12:30-1:45pm in FLMG 157
 ## Activies
 
 1. [First day](https://classroom.github.com/a/PIP8dA0_)
+2. [2019-01-17 Rootfinding](https://classroom.github.com/a/dWI5OCrT)
 
 ## Git and Jupyter
 
