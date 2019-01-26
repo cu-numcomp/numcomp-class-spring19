@@ -22,8 +22,8 @@ have one.  Please
 [submit issues](https://github.com/cucs-numcomp/numcomp-class/issues)
 in the
 [class repository](https://github.com/cucs-numcomp/numcomp-class)
-or use the
-[discussion forum](https://github.com/orgs/cucs-numcomp/teams/students/discussions)
+or use this
+[discussion forum](https://gitter.im/cucs-numcomp/community/~chat#)
 to report problems or ask questions.
 
 ## Moodle
