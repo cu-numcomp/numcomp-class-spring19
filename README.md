@@ -12,6 +12,7 @@ Meeting Time: Tue/Thu 12:30-1:45pm in FLMG 157
 2. [2019-01-17 Rootfinding](https://classroom.github.com/a/dWI5OCrT)
 3. [2019-01-22 Newton's Method](https://classroom.github.com/a/hopJs3W_)
 4. 2019-01-24: Assign [Homework 1: Rootfinding](https://classroom.github.com/a/pPHCK3pM)
+5. [2019-01-29 Conditioning](https://classroom.github.com/a/CfIQcLAR)
 
 ## Git and Jupyter
 
