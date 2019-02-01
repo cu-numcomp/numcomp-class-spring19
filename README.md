@@ -6,6 +6,9 @@ CU Boulder: CSCI 3656 (Spring 2019)
 
 Meeting Time: Tue/Thu 12:30-1:45pm in FLMG 157
 
+Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
+[this issue](https://github.com/cucs-numcomp/numcomp-class/issues/6) for exceptions.
+
 ## Activies
 
 1. [First day](https://classroom.github.com/a/PIP8dA0_)
