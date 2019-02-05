@@ -17,6 +17,7 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 4. 2019-01-24: Assign [Homework 1: Rootfinding](https://classroom.github.com/a/pPHCK3pM)
 5. [2019-01-29 Conditioning](https://classroom.github.com/a/CfIQcLAR)
 6. [2019-01-31 Stability](https://classroom.github.com/a/_VOHn7fa)
+7. [2019-02-05 Linearity](https://classroom.github.com/a/Wwm_c2n0)
 
 ## Git and Jupyter
 
