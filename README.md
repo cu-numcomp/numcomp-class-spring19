@@ -19,6 +19,8 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 6. [2019-01-31 Stability](https://classroom.github.com/a/_VOHn7fa)
 7. [2019-02-05 Linearity](https://classroom.github.com/a/Wwm_c2n0)
 8. 2019-02-07: Assign [Homework 2: Orthogonal Polynomials](https://classroom.github.com/a/Ywmjt3ND)
+9. 2019-02-12: Gram-Schmidt QR in class; discuss that part of homework.
+10. [2019-02-14: QR](https://classroom.github.com/a/fzA5-A9z)
 
 ## Git and Jupyter
 
@@ -40,3 +42,5 @@ Please enroll in this class on https://moodle.cs.colorado.edu.
 ## Notebooks
 
 1. [Rootfinding](Rootfinding.ipynb)
+2. [Vectors](Vectors.ipynb)
+3. [Linear Algebra](LinearAlgebra.ipynb)

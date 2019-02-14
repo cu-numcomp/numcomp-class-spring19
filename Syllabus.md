@@ -69,7 +69,7 @@ and will be familiar with these cross-cutting themes which are essential to robu
 
 The two midterm exams will be cumulative and use an open neighbor/open internet format with randomized seating.
 
-* Midterm 1: February 21
+* Midterm 1: February 28 (changed from Feb 21)
 * Midterm 2: April 11
 
 #### Git and GitHub
