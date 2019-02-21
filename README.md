@@ -21,6 +21,7 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 8. 2019-02-07: Assign [Homework 2: Orthogonal Polynomials](https://classroom.github.com/a/Ywmjt3ND)
 9. 2019-02-12: Gram-Schmidt QR in class; discuss that part of homework.
 10. [2019-02-14: QR](https://classroom.github.com/a/fzA5-A9z)
+11. 2019-02-21: Assign [Homework 3: Matrix Transforms](https://classroom.github.com/a/trn6cuj_)
 
 ## Git and Jupyter
 
