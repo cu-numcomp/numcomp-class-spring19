@@ -24,6 +24,7 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 11. 2019-02-21: Assign [Homework 3: Matrix Transforms](https://classroom.github.com/a/trn6cuj_)
 12. 2019-02-26: Midterm review on your own [Study Guide](Midterm1-StudyGuide.ipynb)
 13. 2019-02-28: In-class midterm
+14. 2019-03-05: Start Interpolation unit
 
 ## Git and Jupyter
 
@@ -47,3 +48,4 @@ Please enroll in this class on https://moodle.cs.colorado.edu.
 1. [Rootfinding](Rootfinding.ipynb)
 2. [Vectors](Vectors.ipynb)
 3. [Linear Algebra](LinearAlgebra.ipynb)
+4. [Interpolation](Interpolation.ipynb)
