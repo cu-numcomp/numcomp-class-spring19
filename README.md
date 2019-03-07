@@ -25,6 +25,7 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 12. 2019-02-26: Midterm review on your own [Study Guide](Midterm1-StudyGuide.ipynb)
 13. 2019-02-28: In-class midterm
 14. 2019-03-05: Start Interpolation unit
+15. 2019-03-07: Assign [Homework 4: Interpolation](https://classroom.github.com/a/KjIF15TS)
 
 ## Git and Jupyter
 
