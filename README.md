@@ -27,6 +27,7 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 14. 2019-03-05: Start Interpolation unit
 15. 2019-03-07: Assign [Homework 4: Interpolation](https://classroom.github.com/a/KjIF15TS)
 16. [2019-03-19 Bias-Variance](https://classroom.github.com/a/Cn_flrA1)
+17. 2019-03-21: Assign [Homework 5: Regression](https://classroom.github.com/a/FJNB8jFq) due 2019-04-08
 
 ## Git and Jupyter
 
