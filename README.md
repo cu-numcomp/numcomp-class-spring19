@@ -53,3 +53,6 @@ Please enroll in this class on https://moodle.cs.colorado.edu.
 2. [Vectors](Vectors.ipynb)
 3. [Linear Algebra](LinearAlgebra.ipynb)
 4. [Interpolation](Interpolation.ipynb)
+5. [Regression](Regression.ipynb)
+6. [Differentiation](Differentiation.ipynb)
+7. [Integration](Integration.ipynb)
