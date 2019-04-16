@@ -30,6 +30,14 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 17. 2019-03-21: Assign [Homework 5: Regression](https://classroom.github.com/a/FJNB8jFq) due 2019-04-08
 18. [2019-04-02 Numerical Differentiation](https://classroom.github.com/a/Piaf0OMG)
 19. 2019-04-09: Midterm review [Study Guide](Midterm2-StudyGuide.ipynb)
+20. 2019-04-11: Midterm 2.
+21. 2019-04-16: Assign [Homework 6: Integration](https://classroom.github.com/a/jloeOKWg) (due 2019-04-28) and form [project](https://classroom.github.com/g/69DMGHoi) groups
+22. 2019-04-18
+23. 2019-04-23
+24. 2019-04-25: Computational Science Panel Discussion
+25. 2019-04-30
+26. 2019-05-02: Last day of classes
+27. 2019-05-04
 
 ## Git and Jupyter
 
