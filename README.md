@@ -37,7 +37,7 @@ Office hours: Mon/Fri 10-11am and Thu 2-3:15pm in ECOT 824; follow
 24. 2019-04-25: Computational Science Panel Discussion
 25. 2019-04-30
 26. 2019-05-02: Last day of classes
-27. 2019-05-04: Final projects (team presentations and peer evaluation in groups)
+27. 2019-05-04 @ 1:30-4pm: Final projects (team presentations and peer evaluation in groups)
 
 ## Git and Jupyter
 
