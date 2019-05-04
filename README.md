@@ -1,5 +1,10 @@
 # CSCI-3656 Numerical Computation
 
+## Final projects
+
+* [Group evaluation](https://docs.google.com/forms/d/e/1FAIpQLSebGnaIWLvCJjZX1GdnZainAtFHhmKZnKltbezIDbNxL0Cezw/viewform?usp=sf_link) (for use in breakout groups)
+* [Team evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf3G8gZg4XghQ2UiQLuLOjMZy_D2OVDXgvhV8hT8pC8IXU80A/viewform?usp=sf_link) (to evaluate your team members)
+
 ## Quick info from the [Syllabus](Syllabus.md)
 
 CU Boulder: CSCI 3656 (Spring 2019)
